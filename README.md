@@ -1,15 +1,15 @@
-#Compilation Instructions:
+# Compilation Instructions:
 
-##Inside texttwist:
+## Inside texttwist:
 javac TextTwist.java
 java TextTwist
 
-##Inside arithmeticpersistence:
+## Inside arithmeticpersistence:
 node arithmeticPersistence.js
 
-##Inside stageview:
+## Inside stageview:
 python3 stageView.py
 
-##Inside charmode:
+## Inside charmode:
 mcs charMode.cs
 charMode.exe
