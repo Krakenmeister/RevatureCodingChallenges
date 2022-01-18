@@ -14,4 +14,4 @@ python3 stageView.py
 ## Inside charmode:
 mcs charMode.cs
 
-charMode.exe
+./charMode.exe
